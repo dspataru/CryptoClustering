@@ -84,4 +84,4 @@ Using the optimal number of clusters found in the previous section, we clustered
 
 We use PCA to retain all of the important information from the features. In this case, we use three principle components to best describe the highest variance in our data. PCA is a great technique to reduce the dimensionality of our data in order to be able to cluster data more efficiently and to be able to visualize the clusters. Without the dimensionality reduction, it's difficult to understand/visualize what the clusters are because there are too many features to plot. Below is the 3D plot of the clusters using the three PCs to better visualize the clusters.
 
-![clusters_PCA](https://github.com/dspataru/CryptoClustering/blob/main/images/clusters_PCA.png)
+![clusters_PCA](https://github.com/dspataru/CryptoClustering/blob/main/images/PCA_3D.png)
